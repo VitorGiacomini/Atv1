@@ -33,3 +33,9 @@ Para utilizar o projeto localmente, siga os passos abaixo:
    git clone https://github.com/VitorGiacomini/Atv1.git
 
 
+2. Navegue até o diretório do projeto:
+
+    ```sh
+    cd seu-repositorio
+
+Abra o arquivo index.html no seu navegador e seja feliz.
