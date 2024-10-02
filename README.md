@@ -7,9 +7,7 @@ Apenas um Projeto sobre Git e GitHub para a matéria de Gerência e Configuraç�
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Sobre
 
